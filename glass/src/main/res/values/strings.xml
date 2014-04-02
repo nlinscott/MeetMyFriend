@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MeetFriend</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+
+    <string name="glass_voice_trigger">Meet my friend</string>
+    <string name="glass_voice_prompt">Who is this person?</string>
+
+</resources>
